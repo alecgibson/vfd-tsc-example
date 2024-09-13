@@ -1,0 +1,19 @@
+{
+  "name": "vfd-tsc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "vue-tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.2.2",
+    "tslib": "^2.7.0",
+    "typescript": "^5.6.2",
+    "vue": "^3.5.4",
+    "vue-facing-decorator": "^3.0.4",
+    "vue-tsc": "^2.1.6"
+  }
+}

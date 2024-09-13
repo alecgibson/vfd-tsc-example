@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "es6",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "importHelpers": true,
+    "moduleResolution": "NodeNext",
+    "types": [
+      "reflect-metadata",
+    ],
+  },
+}
